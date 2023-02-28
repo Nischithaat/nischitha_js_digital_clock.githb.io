@@ -1,1 +1,1 @@
-# nischitha_js_digital_clock.githb.io
+# nischitha_js_githb.io
